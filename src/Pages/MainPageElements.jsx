@@ -151,6 +151,10 @@ export const HeinoImg = styled.img`
     transform: translate(-50%, 0%);
     z-index: 2;
 
+    @media (max-width: 360px) {
+        width: 140px;
+    }
+
     @media (max-width: 380px) {
         @media (max-height: 700px) {
             width: 130px;
@@ -176,6 +180,10 @@ export const BljatImg = styled.img`
     left: 0;
     transform: rotate(15deg);
     z-index: 2;
+
+    @media (max-width: 360px) {
+        width: 110px;
+    }
     
     @media (max-width: 380px) {
         @media (max-height: 700px) {
@@ -205,6 +213,10 @@ export const RovinImg = styled.img`
     right: -10px;
     transform: rotate(-20deg);
     z-index: 2;
+
+    @media (max-width: 360px) {
+        width: 120px;
+    }
 
     @media (max-width: 380px) {
         @media (max-height: 700px) {

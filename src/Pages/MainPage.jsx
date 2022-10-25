@@ -15,7 +15,7 @@ function MainPage() {
   return (
     <MainHtmlContainer> 
         <Helmet>
-                <style>{'body { background: linear-gradient(#DA09FF, #52109A) no-repeat center center fixed; overflow-y: hidden;}'}</style>
+                <style>{'body { background: linear-gradient(#DA09FF, #52109A) no-repeat center center fixed; overflow: hidden; width: 100%; height: 100%; margin: 0; position: absolute; top: 0; left: 0;}'}</style>
         </Helmet>
         <MainBody>
             <MainContainer>
