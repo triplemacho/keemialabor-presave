@@ -11,6 +11,7 @@ export const MainBody = styled.body`
 `
 
 export const MainContainer = styled.div`
+    height: 100%;
 `;
 
 export const ContentContainer = styled.div`
