@@ -6,7 +6,7 @@ export const MainHtmlContainer = styled.html`
 
 export const MainBody = styled.body`
     width: 100vw;
-    height: 100vh;
+    height: 100%;
     margin: -2vw;
 `
 
