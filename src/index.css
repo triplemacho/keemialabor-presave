@@ -8,3 +8,9 @@
     src: local('TheyPerished'), url("./Fonts/TheyPerished.ttf");
 }
 
+
+@font-face {
+    font-family: 'MONOFONT';
+    src: local('MONOFONT'), url("./Fonts/MONOFONT.ttf");
+}
+

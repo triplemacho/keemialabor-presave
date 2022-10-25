@@ -55,7 +55,9 @@ function MainPage() {
                       </ChangingContentText>
                       <MainTextContainer>
                         <MainText>
-                          30.10 tuleb välja meie kaks uut bängerit, mille albumi nimiloole "Keemialabor" väntasid BFM tudengid üli kõva musavideo.
+                          <b>30.10</b> tuleb välja meie kaks uut bängerit, 
+                          mille albumi nimiloole "Keemialabor" väntasid 
+                          BFM tudengid üli kõva musavideo. <br/> <br/> Püsi lainel ja eelsalvesta laul kohe!
                         </MainText>
                       </MainTextContainer>
                     </TextContainer>

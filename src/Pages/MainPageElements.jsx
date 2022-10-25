@@ -24,7 +24,7 @@ export const TextContainer = styled.div`
     width: 80%;
     height: 60vh;
     padding-top: 5vh;
-    margin-bottom: -20px;
+    margin-bottom: 20px;
     z-index: 5;
     text-align: center;
 
@@ -116,15 +116,15 @@ export const MainTextContainer = styled.div`
 `
 
 export const MainText = styled.p`
+    font-family: MONOFONT;
     color: #fff;
     font-size: 1.5em;
-    text-align: justify;
     text-justify: inter-word;
 
     @media (max-width: 380px) {
         @media (max-height: 700px) {
             margin-top: -30px;
-            font-size: 17px;
+            font-size: 15px;
         }
     }
 `
