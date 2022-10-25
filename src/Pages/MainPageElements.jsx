@@ -80,7 +80,7 @@ export const ChangingContentText = styled.p`
     margin-top: -20px;
     color: #000;
     font-size: 20px;
-    padding-bottom: 15px;
+    padding-bottom: 50px;
     
 
     @media (max-width: 375px) {
@@ -102,9 +102,17 @@ export const SubHeader = styled.p`
     margin-bottom: 4px;
 `
 
+export const MainTextContainer = styled.div`
+    text-align: center;
+    justify-content: center;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+`
+
 export const MainText = styled.p`
     color: #fff;
-    font-size: 2em;
+    font-size: 1.5em;
     text-align: justify;
     text-justify: inter-word;
 
