@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const ButtonContainer = styled.div`
-    z-index: 3;
+    z-index: 3;      
 `
 
 export const Button = styled.button`
@@ -22,7 +22,11 @@ export const Button = styled.button`
     }
 
     @media (min-width: 1025px) {
-    }         
+        height: 8vh;
+        z-index: 5;
+    }
+    
+    
 `
 
 export const SpotifyIcon = styled.img`

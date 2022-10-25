@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'JustoSt';
+    src: local('JustoSt'), url("./Fonts/JustoSt.ttf");
+}
+
+@font-face {
+    font-family: 'TheyPerished';
+    src: local('TheyPerished'), url("./Fonts/TheyPerished.ttf");
+}
+

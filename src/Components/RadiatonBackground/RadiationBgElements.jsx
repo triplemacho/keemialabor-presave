@@ -15,4 +15,12 @@ export const RadiationSVG = styled.img`
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+
+    @media (min-width: 768px) {
+        width: 120%;
+    } 
+
+    @media (min-width: 1025px) {
+        width: 70%;
+    }   
 `
