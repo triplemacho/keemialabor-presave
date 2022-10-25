@@ -104,7 +104,7 @@ export const SubHeader = styled.p`
 
 export const MainText = styled.p`
     color: #fff;
-    font-size: 30px;
+    font-size: 2em;
     text-align: justify;
     text-justify: inter-word;
 
