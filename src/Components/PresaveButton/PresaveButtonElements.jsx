@@ -15,15 +15,17 @@ export const Button = styled.button`
     border-radius: 50px;
     padding: 5px 25px 5px 25px;
     box-shadow: 1px 6px #000;
-    cursor: pointer;
 
     @media (min-width: 768px) {
         height: 6vh;
     }
 
     @media (min-width: 1025px) {
+        margin-top: 15vh;
         height: 8vh;
         z-index: 5;
+        box-shadow: 4px 6px #000;
+        cursor: pointer;
     }
     
     

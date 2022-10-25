@@ -23,7 +23,7 @@ export const ContentContainer = styled.div`
 export const TextContainer = styled.div`
     width: 80%;
     height: 60vh;
-    padding-top: 10vh;
+    padding-top: 5vh;
     margin-bottom: -20px;
     z-index: 5;
     text-align: center;
@@ -72,7 +72,7 @@ export const ContentHeader = styled.h3`
 
     @media (min-width: 1025px) {
         font-size: 50px;
-        padding: 0 1vw;
+        padding: 1vw 1vw;
     } 
 `;
 
@@ -123,7 +123,7 @@ export const MainText = styled.p`
 
     @media (max-width: 380px) {
         @media (max-height: 700px) {
-            font-size: 20px;
+            font-size: 17px;
         }
     }
 `
