@@ -9,6 +9,7 @@ import MachoHeino from '../Assets/img/heino.png';
 import MachoBljat from '../Assets/img/bljat.png';
 import MachoRovin from '../Assets/img/rovin.png';
 import MachoLogo from '../Assets/img/logo-horisontal.png';
+import NoiseBackground from '../Components/NoiseBackground';
 
 
 function MainPage() {
@@ -17,6 +18,7 @@ function MainPage() {
         <Helmet>
                 <style>{'body { background: linear-gradient(#DA09FF, #52109A) no-repeat center center fixed; overflow-y: hidden width: 100%;}'}</style>
         </Helmet>
+        <NoiseBackground/>
         <MainBody>
             <MainContainer>
                 <LogoMacho src={MachoLogo} alt='TM logo'/>
