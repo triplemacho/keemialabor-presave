@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/keemialabor-presave/static/css/main.31d6cfe0.css",
-    "main.js": "/keemialabor-presave/static/js/main.57b883a3.js",
+    "main.js": "/keemialabor-presave/static/js/main.c4820adc.js",
     "static/media/heino.png": "/keemialabor-presave/static/media/heino.1e0da29300cb07d079df.png",
     "static/media/bljat.png": "/keemialabor-presave/static/media/bljat.cde964eb2ca4b51d94b9.png",
     "static/media/rovin.png": "/keemialabor-presave/static/media/rovin.2c679c3fcc8353b290d0.png",
@@ -12,10 +12,10 @@
     "static/media/leftBOT.png": "/keemialabor-presave/static/media/leftBOT.9cc82bf9ee7d37d5e7bf.png",
     "static/media/radiation.svg": "/keemialabor-presave/static/media/radiation.993529073e930b9461cdf59018008e3c.svg",
     "index.html": "/keemialabor-presave/index.html",
-    "main.57b883a3.js.map": "/keemialabor-presave/static/js/main.57b883a3.js.map"
+    "main.c4820adc.js.map": "/keemialabor-presave/static/js/main.c4820adc.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.57b883a3.js"
+    "static/js/main.c4820adc.js"
   ]
 }
