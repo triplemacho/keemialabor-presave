@@ -6,7 +6,7 @@ export const CornersContainer = styled.div`
 export const RightTop = styled.img`
     position: absolute;
     top: 0;
-    right: 0;
+    right: -10px;
     width: 40vw;
     height: auto;
     z-index: 2;

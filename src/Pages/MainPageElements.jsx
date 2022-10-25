@@ -123,6 +123,7 @@ export const MainText = styled.p`
 
     @media (max-width: 380px) {
         @media (max-height: 700px) {
+            margin-top: -30px;
             font-size: 17px;
         }
     }
@@ -150,9 +151,16 @@ export const HeinoImg = styled.img`
     left: 50%;
     transform: translate(-50%, 0%);
     z-index: 2;
+    
 
     @media (max-width: 360px) {
         width: 140px;
+    }
+
+    @media (max-width: 380px) {
+        @media (max-height: 700px) {
+            width: 130px;
+        }
     }
 
     @media (max-width: 380px) {
@@ -181,14 +189,16 @@ export const BljatImg = styled.img`
     transform: rotate(15deg);
     z-index: 2;
 
+
     @media (max-width: 360px) {
         width: 110px;
     }
     
     @media (max-width: 380px) {
         @media (max-height: 700px) {
-            width: 100px;
+            width: 90px;
             left: 10px;
+            bottom: 9vw;
         }
     }
 
@@ -220,8 +230,9 @@ export const RovinImg = styled.img`
 
     @media (max-width: 380px) {
         @media (max-height: 700px) {
-            width: 100px;
-            right: 10px;
+            width: 90px;
+            right: 0px;
+            bottom: 18vw;
         }
     }
 
