@@ -60,8 +60,10 @@ export const ContentHeader = styled.h3`
   0px -2px 0 #000,
   -2px 0px 0 #000;;
 
-    @media (max-width: 375px) {
-        font-size: 30px;
+    @media (max-width: 380px) {
+        @media (max-height: 700px) {
+            font-size: 28px;
+        }
     }
 
     @media (min-width: 768px) {
@@ -84,7 +86,10 @@ export const ChangingContentText = styled.p`
     
 
     @media (max-width: 375px) {
-        font-size: 18px;
+        @media (max-height: 700px) {
+            font-size: 18px;
+            padding-bottom: -20px;
+        }
     }
     
     @media (min-width: 768px) {
