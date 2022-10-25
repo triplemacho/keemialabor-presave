@@ -37,7 +37,7 @@ export const LeftTop = styled.img`
 `
 
 export const RightBottom = styled.img`
-    position: absolute;
+    position: fixed;
     bottom: -5px;
     right: 0;
     width: 40vw;
@@ -54,7 +54,7 @@ export const RightBottom = styled.img`
 `
 
 export const LeftBottom = styled.img`
-    position: absolute;
+    position: fixed;
     bottom: -5px;
     left: 0;
     width: 40vw;

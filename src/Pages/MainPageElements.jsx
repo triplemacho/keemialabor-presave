@@ -45,7 +45,7 @@ export const TextContainer = styled.div`
 `
 
 export const ContentHeader = styled.h3`
-    font-size: 40px;
+    font-size: 30px;
     font-family: JustoSt;
     letter-spacing: 5px;
     text-align: center;
